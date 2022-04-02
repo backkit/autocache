@@ -4,7 +4,7 @@
 ## install
 
 ```
-npm install --save https://github.com/backkit/autocache.git
+npm install --save @backkit/autocache
 ```
 
 ## basics
