@@ -43,7 +43,7 @@ Instead, you create a cache resolver, that is called automaticaly when your cach
 res/autocache/hello.js
 
 ```
-const BaseResolver = require('backkit-')
+const BaseResolver = require('@backkit/')
 class HelloResolver extends  {
   
   constructor({autocache}) {
